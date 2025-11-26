@@ -73,7 +73,7 @@ class GraphPlanner(Planner):
             #Complete getting new goals
             ...
             
-            # find plan_frefix
+            # find plan_prefix
             plan_prefix = ...
 
             

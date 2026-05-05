@@ -1,4 +1,4 @@
-![GraphPlan]([https://github.com/shaahinfaezi/GraphPlan_session/blob/main/planning_graph.png])
+!([https://github.com/shaahinfaezi/GraphPlan_session/blob/main/planning_graph.png])
 
 # AI Planning System - GraphPlan
 

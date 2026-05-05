@@ -1,7 +1,7 @@
 <img width="1500" height="1000" alt="planning_graph" src="https://github.com/user-attachments/assets/930c2997-aa8b-47a6-94a8-bf1f99c1bd95" />
 
 
-# AI Planning System - GraphPlan
+# GraphPlan
 
 ## Overview
 
